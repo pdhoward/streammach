@@ -1,44 +1,28 @@
-STRML.net
+Strategic Machines
 =========
 
-Samuel Reed
-CTO, BitMEX (The Bitcoin Mercantile Exchange)
+Patrick Howard
+Founder Strategic Machines
 Full-Stack / NodeJS / DevOps
 
 Contact
 -------
 
-* sam at bitmex dot com
-* samuel.trace.reed at gmail dot com
-* STRML on irc.freenode.net
-* @STRML_ on Twitter
+* LinkedIn or
+* @urban_coder on Twitter
 
 Projects
 --------
 
-* www.BitMEX.com
-* www.Securesha.re
-* www.Tixelated.com
-* www.BrightestYoungThings.com
-and of course...
-* www.strml.net
+* www.strategicmachines.io
 
-Open Source
+Industry Contributions
 -----------
 
-* Babel
-* React-Grid-Layout
-* React-LocalStorage
-* React-Router-Component
-* React-Resizable
-* React-Draggable
-* OpenBazaar
-* JSXHint
-* BTChip-Signing-Tools
-* TextFit
-* Imgur-to-GFYcat
-* backbone.queryRouter
-* backbone.layoutManager
-* Mongoose-Filter-Denormalize
+* Digital reputations
+* Event challenges
+* Collaboration models at scale
+* Conversation commerce in practice
+* Insights, not search
 
 
