@@ -1,8 +1,6 @@
-# Stream Machine
-## Exploration of interactive marketing and cognitive apps
+## Stream Machine
+### Exploration of interactive marketing and cognitive apps
 =========
-
-* Thanks to http://strml.net
 
 Building
 --------
@@ -21,3 +19,5 @@ Building for Production
 ```bash
 npm run build
 ```
+
+#### source: Thanks to http://strml.net
