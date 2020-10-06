@@ -3,18 +3,19 @@ Strategic Machines
 
 Patrick Howard
 Founder Strategic Machines
-Full-Stack / NodeJS / DevOps
+Strategic Architecture | Edge Computing | Low Latency Business Networks
 
 Contact
 -------
 
 * LinkedIn or
 * @urban_coder on Twitter
+* Blog: https://proximityblog.netlify.app/
 
 Projects
 --------
 
-* www.strategicmachines.io
+* https://proximitymachine.netlify.app/
 
 Industry Contributions
 -----------
@@ -22,7 +23,8 @@ Industry Contributions
 * Digital reputations
 * Event challenges
 * Collaboration models at scale
-* Conversation commerce in practice
+* Conversational commerce in practice
+* Awarded 4 US Patents
 * Insights, not search
 
 
